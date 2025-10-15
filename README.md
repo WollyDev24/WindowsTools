@@ -1,5 +1,5 @@
 # WindowsTools
-![Banner](https://raw.githubusercontent.com/WollyDev24/WindowsTools/main/tools.png)
+![Banner](https://raw.githubusercontent.com/WollyDev24/WindowsTools/main/WindowsTools.png)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/WollyDev24/WindowsTools?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/WollyDev24/WindowsTools?style=for-the-badge)
